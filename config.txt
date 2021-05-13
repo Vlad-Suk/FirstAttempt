@@ -1,0 +1,4 @@
+﻿color
+blue
+text
+Hello my bro

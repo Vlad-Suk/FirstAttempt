@@ -1,0 +1,10 @@
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\sukvl\source\repos\EmptyWebApplicationASP.NET\EmptyWebApplicationASP.NET
+Processing request /
+Processing request /favicon.ico
+Processing request /hello
+Processing request /hello
+Processing request /favicon.ico

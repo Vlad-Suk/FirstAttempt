@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<person>
+  <name>Vlad</name>
+  <age>21</age>
+  <languages name="0">English</languages>
+  <languages name="1">German</languages>
+  <languages name="2">Spain</languages>
+  <company>
+    <title>Microsoft</title>
+    <country>USA</country>
+  </company>
+</person>
+  
+  
